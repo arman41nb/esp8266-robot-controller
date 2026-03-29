@@ -1,4 +1,4 @@
-# Sazak Robot Controller
+# Robot Controller
 
 ESP8266-based robot controller with a Python Flet mobile/web app and ESP-NOW communication between transmitter and receiver modules.
 
