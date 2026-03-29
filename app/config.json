@@ -1,0 +1,10 @@
+{
+    "esp_ws_url": "ws://192.168.4.1:81",
+    "theme": {
+        "white": "#FFFFFF",
+        "purple": "#C742F0",
+        "purple_dark": "#9828D9",
+        "purple_light": "#EEE6FF",
+        "glass_white": "#FFFFFFE0"
+    }
+}

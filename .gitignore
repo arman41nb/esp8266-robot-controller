@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# App build artifacts
+app/build/
+app/__pycache__/
+
+# Flutter build artifacts
+app/build/flutter/.dart_tool/
+app/build/flutter/build/
+
+# APK files
+*.apk
+*.apk.sha1
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
